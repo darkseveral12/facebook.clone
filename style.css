@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+
+img {
+
+    width: 300px;
+}
+
+.quote-text {
+    margin: 0;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+.login-container {
+    margin: 25px auto;
+    height: 330px;
+    padding: 15px;
+    margin-top: 38px;
+    background-color: white;
+    width: 386px;
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+.link {
+    outline: none;
+    padding: 16px 5px;
+    margin-top: 15px;
+    margin: 13px auto;
+    display: block;
+    font-family: Arial;
+    font-weight: normal;
+    width: 364px;
+    font-size: 16px;
+    text-indent: 10px;
+    border-radius: 5px;
+    border:1px solid rgba(0, 0, 0, 0.1);
+}
+
+.btn-login {
+    margin: 13px auto;
+    width: 374px;
+    height: 50px;
+    padding: 15px 5px;
+    margin-top: 4px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    color: white;
+    background-color: #1877f2;
+    border-color: #1877f2;
+    border-radius: 9px;
+    text-indent: -10px;
+}
+
+.forgot {
+    text-decoration: none;
+    font-family: Arial;
+    color:#1877f2;
+    font-size: 15px;
+
+}
+
+.forgot:hover {
+    text-decoration: underline;
+}
+
+hr {
+    opacity: 0.5;
+    margin:18px auto;
+}
+
+.btn-new {
+    display: inline-block;
+    margin: -1px auto;
+    width: 210px;
+    padding: 13px 10px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    background-color: #42b72a;
+    border-color: #42b72a;
+    border-radius: 8px;
+    text-indent: 30;
+}
+
+p {
+    text-align: center;
+}
+
+.text-end {
+    margin-bottom: 25px;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text-end:hover {
+    text-decoration: underline;
+}
